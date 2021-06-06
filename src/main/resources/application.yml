@@ -1,0 +1,16 @@
+upbit :
+  key :
+    AccessKey: txDZUTjXdeuwhoFlOofLXExYtaCjMfu5m7nJxYeM
+    SecretKey: oteDZ5nIDxDQl5D2en82vf6OD7VvBp7PKgADYS6S
+  address:
+    market: https://api.upbit.com/v1/market/all?isDetails=false
+    minuteCandle: https://api.upbit.com/v1/candles/minutes
+    orderbook: https://api.upbit.com/v1/orderbook
+    accounts: https://api.upbit.com/v1/accounts
+    ticker: https://api.upbit.com/v1/ticker
+
+---
+
+
+
+
